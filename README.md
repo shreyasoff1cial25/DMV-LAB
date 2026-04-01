@@ -2,7 +2,7 @@ Student Details
 Name: Shreyas Roy
 Course: B.Tech CSE
 Enrollment no.: A91005222001
-University: Amity University Kolkata
+University: Amity University Kolkata 
 Repository Overview
 This repository contains all the lab assignments completed as part of the Data Management & Visualization coursework. Each assignment demonstrates different concepts of data handling, visualization, and basic animation using Python.
 The tasks range from simple static plots to dynamic and animated visualizations, along with data preprocessing techniques like handling missing values and detecting outliers.
